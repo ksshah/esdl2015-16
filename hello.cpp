@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
   char c;
-  cout<<"This is a test program for gitHub";
-  cout<<"Do you like it?"
+  cout<<"Do you like it?\n"
   cin>>c;
   cout<<c;
+  cout<<"Hope you have a good time on gitHub\n";
 }
